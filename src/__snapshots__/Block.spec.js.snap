@@ -1,0 +1,31 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Block renders BlankBlock 1`] = `
+<div
+  className="box box0"
+  onDragOver={[Function]}
+  onDrop={[Function]}
+  style={
+    Object {
+      "order": "5",
+    }
+  }
+>
+   
+</div>
+`;
+
+exports[`Block renders Block 1`] = `
+<div
+  className="box box3"
+  draggable="true"
+  onDragStart={[Function]}
+  style={
+    Object {
+      "order": "0",
+    }
+  }
+>
+  3
+</div>
+`;
