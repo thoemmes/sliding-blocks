@@ -23,7 +23,8 @@
     "eject": "react-scripts eject"
   },
   "babel": {
-     "presets": ["env","react-app"]
+     "presets": ["env","react-app"],
+     "sourceMap": "inline"
   },
   "jest": {
      "transform": {".*": "<rootDir>/node_modules/babel-jest"}

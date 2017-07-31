@@ -35,7 +35,7 @@
                 "NODE_ENV": "development"
             },
             "console": "internalConsole",
-            "sourceMaps": false
+            "sourceMaps": true
         }
 
     ]

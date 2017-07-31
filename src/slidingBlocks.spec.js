@@ -4,7 +4,7 @@ describe('SlidingBlocks', () => {
 
     describe('isNeighbor', () => {
 
-        it('detects  row neighbor', () => {
+        it('detects row neighbor', () => {
 
             expect(isNeighbor(1, 2)).toBeTruthy();
             expect(isNeighbor(2, 1)).toBeTruthy();
